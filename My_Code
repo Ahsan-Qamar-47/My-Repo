@@ -1,0 +1,6 @@
+class Program
+{
+    System.Console.WriteLine("Enter your Name:");
+    string name = System.Console.ReadLine();
+    System.Console.WriteLine($"Enter your name is {name}");
+    }
