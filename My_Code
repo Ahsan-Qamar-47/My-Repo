@@ -3,4 +3,7 @@ class Program
     System.Console.WriteLine("Enter your Name:");
     string name = System.Console.ReadLine();
     System.Console.WriteLine($"Enter your name is {name}");
+    System.Console.WriteLine("Enter your Roll Number:");
+    string RollNumber = System.Console.ReadLine();
+    System.Console.WriteLine("Your Roll number is {RollNumber}");
     }
